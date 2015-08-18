@@ -1,0 +1,450 @@
+[06-Oct-2014 05:22:49 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/buzzeorw1/public_html/members_area/register.php on line 27
+[06-Oct-2014 05:24:28 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/buzzeorw1/public_html/members_area/register.php on line 27
+[06-Oct-2014 05:27:03 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/buzzeorw1/public_html/members_area/register.php on line 27
+[06-Oct-2014 05:36:28 UTC] PHP Fatal error:  Call to undefined function makeRandomPassword() in /home/buzzeorw1/public_html/members_area/register.php on line 58
+[07-Oct-2014 14:52:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:1) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 3
+[07-Oct-2014 14:52:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[07-Oct-2014 14:52:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 18
+[07-Oct-2014 14:57:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:1) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 3
+[07-Oct-2014 14:57:20 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[07-Oct-2014 14:57:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 18
+[07-Oct-2014 14:57:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:1) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 3
+[07-Oct-2014 15:02:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[07-Oct-2014 15:02:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 18
+[07-Oct-2014 15:04:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[07-Oct-2014 15:04:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 18
+[07-Oct-2014 15:06:49 UTC] PHP Notice:  Undefined variable: connection in /home/buzzeorw1/public_html/members_area/checkuser.php on line 12
+[07-Oct-2014 15:06:49 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 12
+[07-Oct-2014 15:09:28 UTC] PHP Notice:  Undefined variable: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 33
+[07-Oct-2014 15:09:28 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 35
+[07-Oct-2014 15:09:28 UTC] PHP Notice:  Undefined variable: user_level in /home/buzzeorw1/public_html/members_area/checkuser.php on line 39
+[07-Oct-2014 15:09:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 40
+[07-Oct-2014 15:09:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:33) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 41
+[07-Oct-2014 15:12:37 UTC] PHP Notice:  Undefined variable: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 34
+[07-Oct-2014 15:12:37 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 36
+[07-Oct-2014 15:12:37 UTC] PHP Notice:  Undefined variable: user_level in /home/buzzeorw1/public_html/members_area/checkuser.php on line 40
+[07-Oct-2014 15:12:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:34) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 42
+[07-Oct-2014 15:14:04 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 32
+[07-Oct-2014 15:14:04 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 35
+[07-Oct-2014 15:14:04 UTC] PHP Notice:  Undefined variable: user_level in /home/buzzeorw1/public_html/members_area/checkuser.php on line 39
+[07-Oct-2014 15:14:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:32) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 41
+[07-Oct-2014 15:28:00 UTC] PHP Notice:  Undefined variable: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 32
+[07-Oct-2014 15:28:00 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 34
+[07-Oct-2014 15:28:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:32) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 39
+[07-Oct-2014 15:30:17 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 31
+[07-Oct-2014 15:30:17 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 34
+[07-Oct-2014 15:30:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:31) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 39
+[07-Oct-2014 15:30:45 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 23
+[07-Oct-2014 15:30:45 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 35
+[07-Oct-2014 15:30:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:23) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 40
+[07-Oct-2014 16:49:25 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 23
+[07-Oct-2014 16:49:25 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 35
+[07-Oct-2014 16:49:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:23) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 40
+[07-Oct-2014 16:53:10 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 23
+[07-Oct-2014 16:53:10 UTC] PHP Notice:  Undefined variable: last_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 35
+[07-Oct-2014 16:53:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:23) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 40
+[07-Oct-2014 16:53:34 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/checkuser.php on line 23
+[07-Oct-2014 16:53:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buzzeorw1/public_html/members_area/checkuser.php:23) in /home/buzzeorw1/public_html/members_area/checkuser.php on line 37
+[07-Oct-2014 17:01:44 UTC] PHP Notice:  Undefined index: email_address in /home/buzzeorw1/public_html/members_area/checkuser.php on line 7
+[07-Oct-2014 17:01:44 UTC] PHP Notice:  Undefined index: password in /home/buzzeorw1/public_html/members_area/checkuser.php on line 8
+[07-Oct-2014 17:05:43 UTC] PHP Notice:  Undefined index: email_address in /home/buzzeorw1/public_html/members_area/checkuser.php on line 7
+[07-Oct-2014 17:05:43 UTC] PHP Notice:  Undefined index: password in /home/buzzeorw1/public_html/members_area/checkuser.php on line 8
+[09-Oct-2014 16:21:30 UTC] PHP Notice:  Use of undefined constant braccia2014 - assumed 'braccia2014' in /home/buzzeorw1/public_html/members_area/register.php on line 13
+[09-Oct-2014 16:24:14 UTC] PHP Notice:  Use of undefined constant braccia2014 - assumed 'braccia2014' in /home/buzzeorw1/public_html/members_area/register.php on line 13
+[09-Oct-2014 16:24:14 UTC] PHP Notice:  Undefined variable: pass in /home/buzzeorw1/public_html/members_area/register.php on line 62
+[09-Oct-2014 16:24:14 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/buzzeorw1/public_html/members_area/register.php on line 77
+[09-Oct-2014 16:29:04 UTC] PHP Notice:  Use of undefined constant braccia2014 - assumed 'braccia2014' in /home/buzzeorw1/public_html/members_area/register.php on line 13
+[09-Oct-2014 16:31:45 UTC] PHP Notice:  Use of undefined constant braccia2014 - assumed 'braccia2014' in /home/buzzeorw1/public_html/members_area/register.php on line 10
+[09-Oct-2014 19:00:54 UTC] PHP Notice:  Undefined index: file in /home/buzzeorw1/public_html/members_area/add_list.php on line 18
+[09-Oct-2014 19:17:45 UTC] PHP Notice:  Undefined index: file in /home/buzzeorw1/public_html/members_area/add_list.php on line 18
+[09-Oct-2014 19:21:04 UTC] PHP Notice:  Undefined variable: listing_img in /home/buzzeorw1/public_html/members_area/add_list.php on line 38
+[09-Oct-2014 19:23:56 UTC] PHP Notice:  Undefined variable: listing_img in /home/buzzeorw1/public_html/members_area/add_list.php on line 38
+[09-Oct-2014 19:29:00 UTC] PHP Notice:  Undefined variable: unique in /home/buzzeorw1/public_html/members_area/add_list.php on line 25
+[09-Oct-2014 19:32:14 UTC] PHP Notice:  Undefined variable: unique in /home/buzzeorw1/public_html/members_area/add_list.php on line 36
+[09-Oct-2014 22:20:59 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/buzzeorw1/public_html/members_area/add_list.php on line 7
+[10-Oct-2014 04:20:41 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/register.php on line 4
+[10-Oct-2014 04:20:41 UTC] PHP Notice:  Undefined index: last_name in /home/buzzeorw1/public_html/members_area/register.php on line 5
+[10-Oct-2014 04:20:41 UTC] PHP Notice:  Undefined index: email_address in /home/buzzeorw1/public_html/members_area/register.php on line 6
+[10-Oct-2014 04:20:41 UTC] PHP Notice:  Undefined index: psswrd1 in /home/buzzeorw1/public_html/members_area/register.php on line 7
+[10-Oct-2014 04:20:41 UTC] PHP Notice:  Undefined index: psswrd2 in /home/buzzeorw1/public_html/members_area/register.php on line 8
+[10-Oct-2014 04:20:41 UTC] PHP Notice:  Undefined index: authcode in /home/buzzeorw1/public_html/members_area/register.php on line 9
+[28-Oct-2014 06:37:00 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 92
+[28-Oct-2014 06:37:16 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 92
+[28-Oct-2014 06:37:55 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 92
+[28-Oct-2014 06:38:30 UTC] PHP Fatal error:  Call to undefined function test_input() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 92
+[28-Oct-2014 17:31:32 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/register.php on line 4
+[28-Oct-2014 17:31:32 UTC] PHP Notice:  Undefined index: last_name in /home/buzzeorw1/public_html/members_area/register.php on line 5
+[28-Oct-2014 17:31:32 UTC] PHP Notice:  Undefined index: email_address in /home/buzzeorw1/public_html/members_area/register.php on line 6
+[28-Oct-2014 17:31:32 UTC] PHP Notice:  Undefined index: psswrd1 in /home/buzzeorw1/public_html/members_area/register.php on line 7
+[28-Oct-2014 17:31:32 UTC] PHP Notice:  Undefined index: psswrd2 in /home/buzzeorw1/public_html/members_area/register.php on line 8
+[28-Oct-2014 17:31:32 UTC] PHP Notice:  Undefined index: authcode in /home/buzzeorw1/public_html/members_area/register.php on line 9
+[02-Nov-2014 22:21:10 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:21:10 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:21:10 UTC] PHP Warning:  include(): Failed opening 'dbconuser.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:21:10 UTC] PHP Notice:  Undefined variable: con in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:21:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:21:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[02-Nov-2014 22:23:25 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:25 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:25 UTC] PHP Warning:  include(): Failed opening 'dbconuser.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:25 UTC] PHP Notice:  Undefined variable: con in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:23:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:23:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[02-Nov-2014 22:23:34 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:34 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:34 UTC] PHP Warning:  include(): Failed opening 'dbconuser.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:34 UTC] PHP Notice:  Undefined variable: con in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:23:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:23:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[02-Nov-2014 22:23:50 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:50 UTC] PHP Warning:  include(dbconuser.php): failed to open stream: No such file or directory in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:50 UTC] PHP Warning:  include(): Failed opening 'dbconuser.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buzzeorw1/public_html/members_area/checkuser.php on line 4
+[02-Nov-2014 22:23:50 UTC] PHP Notice:  Undefined variable: con in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:23:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 16
+[02-Nov-2014 22:23:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/buzzeorw1/public_html/members_area/checkuser.php on line 17
+[09-Nov-2014 13:08:58 UTC] PHP Fatal error:  Using $this when not in object context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 245
+[09-Nov-2014 14:19:36 UTC] PHP Fatal error:  Using $this when not in object context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 250
+[10-Nov-2014 18:29:30 UTC] PHP Fatal error:  Using $this when not in object context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 250
+[17-Nov-2014 22:51:43 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/register.php on line 4
+[17-Nov-2014 22:51:43 UTC] PHP Notice:  Undefined index: last_name in /home/buzzeorw1/public_html/members_area/register.php on line 5
+[17-Nov-2014 22:51:43 UTC] PHP Notice:  Undefined index: email_address in /home/buzzeorw1/public_html/members_area/register.php on line 6
+[17-Nov-2014 22:51:43 UTC] PHP Notice:  Undefined index: psswrd1 in /home/buzzeorw1/public_html/members_area/register.php on line 7
+[17-Nov-2014 22:51:43 UTC] PHP Notice:  Undefined index: psswrd2 in /home/buzzeorw1/public_html/members_area/register.php on line 8
+[17-Nov-2014 22:51:43 UTC] PHP Notice:  Undefined index: authcode in /home/buzzeorw1/public_html/members_area/register.php on line 9
+[20-Nov-2014 22:55:17 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 121
+[20-Nov-2014 22:55:17 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 121
+[20-Nov-2014 22:59:48 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 123
+[21-Nov-2014 15:17:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/edit-avatar.php:81
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/edit-avatar.php(81): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/edit-avatar.php(22): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/edit-avatar.php(187): CropAvatar->__construct('', '{"x":107,"y":16...', Array, NULL)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/edit-avatar.php on line 81
+[29-Nov-2014 06:31:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:42
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 42
+[29-Nov-2014 06:32:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:42
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 42
+[29-Nov-2014 06:48:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:42
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 42
+[30-Nov-2014 14:20:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:43
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 43
+[30-Nov-2014 14:22:35 UTC] PHP Fatal error:  Call to undefined method PDOStatement::exec() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 43
+[30-Nov-2014 14:23:32 UTC] PHP Fatal error:  Call to undefined method PDOStatement::exec() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 43
+[30-Nov-2014 14:25:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:43
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 43
+[30-Nov-2014 14:27:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:126
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(126): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(68): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(230): CropAvatar->__construct('', '{"x":96,"y":256...', Array, NULL)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 126
+[30-Nov-2014 14:29:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:42
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 42
+[30-Nov-2014 15:12:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:46
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 46
+[30-Nov-2014 15:13:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:46
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 46
+[30-Nov-2014 15:13:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:46
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 46
+[30-Nov-2014 22:15:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:46
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 46
+[30-Nov-2014 22:16:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:46
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 46
+[30-Nov-2014 22:16:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ad_link' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:46
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 46
+[30-Nov-2014 22:26:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:46
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 46
+[30-Nov-2014 23:51:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:127
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(127): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(69): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(231): CropAvatar->__construct('', '', Array)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 127
+[30-Nov-2014 23:53:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:127
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(127): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(69): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(231): CropAvatar->__construct('', '', Array)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 127
+[30-Nov-2014 23:55:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:127
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(127): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(69): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(231): CropAvatar->__construct('', '', Array)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 127
+[30-Nov-2014 23:59:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:127
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(127): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(69): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(234): CropAvatar->__construct('', '', Array, NULL)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 127
+[30-Nov-2014 23:59:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:127
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(127): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(69): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(234): CropAvatar->__construct('', '', Array, NULL)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 127
+[01-Dec-2014 05:44:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.mblistings.com/images/listimg/mod/20141201054410.jpeg WHERE id=409' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:122
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(122): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(64): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(229): CropAvatar->__construct('', '{"x":320,"y":12...', Array, '409')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 122
+[07-Dec-2014 00:56:02 UTC] PHP Fatal error:  Cannot access empty property in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 44
+[07-Dec-2014 00:57:31 UTC] PHP Fatal error:  Cannot access empty property in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 44
+[07-Dec-2014 07:11:30 UTC] PHP Fatal error:  Cannot access empty property in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 44
+[07-Dec-2014 07:13:04 UTC] PHP Fatal error:  Cannot access empty property in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 45
+[08-Dec-2014 21:10:54 UTC] PHP Fatal error:  Cannot access empty property in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 44
+[11-Dec-2014 16:03:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:146
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(146): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(87): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(275): CropAvatar->__construct('', '{"x":480,"y":12...', Array, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 146
+[11-Dec-2014 17:49:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(312): CropAvatar->__construct('', '{"x":528,"y":10...', Array, '436', 'fsadfasdf', 'asdfasdfasd', 'asdfasdf', 'asdfas', 'sadfasdf', 'asdfasdf', 'sadfasdf', 'dfasdfasdf', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[11-Dec-2014 17:51:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(312): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '437', 'asdaSDAD', 'ASDAsd', 'ASDas', 'sdaSDasd', 'dASDa', 'aSDasd', 'dasd', 'asdaSD', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[11-Dec-2014 17:53:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(312): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '438', 'sdfasd', 'fasdfa', 'dsfasdf', '', 'sadfasdf', 'sadfasdf', 'sdfsadf', 'sdafasdf', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[11-Dec-2014 17:56:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:176
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(176): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(311): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '439', 'sadfasd', 'fasdf', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 176
+[11-Dec-2014 18:08:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>id' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:176
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(176): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(311): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '440', 'gdsfgsdfg', '', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 176
+[11-Dec-2014 18:09:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(312): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '441', 'dsfgsdfg', '', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[11-Dec-2014 18:10:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(312): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '442', 'sdfgsdf', 'gsdfgsd', '', '', '', '', 'fgsdfg', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[11-Dec-2014 18:19:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:176
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(176): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(311): CropAvatar->__construct('', '{"x":528,"y":10...', Array, '443', 'sdgfgsdfg', 'dsfgsdf', 'yyyyyyyyyyyyyyy...', 'yyyyyyyyyyyyyyy...', 'yyyyyyyyyyyyyyy...', 'sdfgsdfg', 'gsdfg', 'yyyyyyyyyyyyyyy', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 176
+[11-Dec-2014 18:38:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(312): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '444', 'asdASD', 'AsdASDasd', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[11-Dec-2014 18:50:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:178
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(178): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(313): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '445', 'sdfasdfa', '', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 178
+[11-Dec-2014 18:51:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:178
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(178): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(313): CropAvatar->__construct('', '{"x":528,"y":10...', Array, '446', 'sdfgsdfgsd', '', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 178
+[11-Dec-2014 18:53:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:178
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(178): PDOStatement->execute(Array)
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(314): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '447', 'dgsfgsdfgfg', '', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 178
+[11-Dec-2014 18:54:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:178
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(178): PDOStatement->execute(Array)
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(313): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '448', 'asdfasdf', '', '', '', '', '', '', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 178
+[11-Dec-2014 18:57:13 UTC] PHP Fatal error:  Call to undefined method PDOStatement::exec() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 176
+[11-Dec-2014 19:01:10 UTC] PHP Fatal error:  Call to undefined method PDOStatement::exec() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 178
+[11-Dec-2014 21:27:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 328
+[11-Dec-2014 22:02:44 UTC] PHP Fatal error:  Call to a member function getResult() on a non-object in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 305
+[11-Dec-2014 22:03:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 309
+[11-Dec-2014 22:18:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 273
+[11-Dec-2014 23:14:34 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 175
+[12-Dec-2014 00:14:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:175
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(175): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(317): CropAvatar->__construct('', '{"x":480,"y":12...', Array, NULL, 'sdfasdf', 'sdfasd', '', 'sdafas', '', 'asdfasdf', 'fasdf', 'dfsadfasdf', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 175
+[12-Dec-2014 00:16:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.mblistings.com/images/listimg/mod/20141212001642.jpeg WHERE id=()' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:176
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(176): PDOStatement->execute()
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(318): CropAvatar->__construct('', '{"x":320,"y":12...', Array, NULL, 'sadfasdf', 'sadfasdf', 'asdfasdf', '', '', 'fasdf', 'sadfsad', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 176
+[12-Dec-2014 00:27:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.mblistings.com/images/listimg/mod/20141212002701.jpeg WHERE id=NULL' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:176
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(176): PDOStatement->execute(NULL)
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(318): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '503', 'asdaSDAS', 'DADSASd', 'ASDa', 'AsdASD', 'sdaSD', 'asdASD', 'asdaSD', 'AsdASD', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 176
+[12-Dec-2014 16:41:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.mblistings.com/images/listimg/mod/20141212164107.jpeg WHERE id=NULL' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:176
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(176): PDOStatement->execute()
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(318): CropAvatar->__construct('', '{"x":528,"y":10...', Array, '506', 'sadfasdfa', 'sdfsa', '', '', '', 'asdfasdf', 'dfsadf', '', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 176
+[12-Dec-2014 17:53:32 UTC] PHP Fatal error:  Call to a member function lastInsertId() on a non-object in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 170
+[12-Dec-2014 17:55:18 UTC] PHP Fatal error:  Call to a member function lastInsertId() on a non-object in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 169
+[12-Dec-2014 21:03:29 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 178
+[12-Dec-2014 21:13:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.mblistings.com/images/listimg/mod/20141212211339.jpeg WHERE id=NULL' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:178
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(178): PDOStatement->execute(Array)
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(81): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(317): CropAvatar->__construct('', '{"x":480,"y":12...', Array, '525', 'gggggggggggg', 'ggggggggggggggg...', 'gggggggggg', 'ggggggggggg', 'ggggggggggggggg...', 'ggggggggggggg', 'ggggggggggggggg...', 'ggggggggggg', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 178
+[12-Dec-2014 22:21:24 UTC] PHP Fatal error:  Call to private method CropAvatar::setSrc() from context '' in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 47
+[12-Dec-2014 22:46:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(316): CropAvatar->__construct('', '{"x":480,"y":12...', Array, NULL, 'hhhhhhhh', 'hhhhhhhhhhhhhhh...', 'hhhhhhhhhhhhhhh...', 'hhhhhhhhhhhhhhh', 'hhhhhhhhhh', 'hhhhhhhhhhhhh', 'hhhhhhhhhhh', 'hhhhhhhhhhhhhhh...', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[12-Dec-2014 22:48:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(316): CropAvatar->__construct('', '{"x":480,"y":12...', Array, NULL, 'hhhhhhhh', 'hhhhhhhhhhhhhhh...', 'hhhhhhhhhhhhhhh...', 'hhhhhhhhhhhhhhh', 'hhhhhhhhhh', 'hhhhhhhhhhhhh', 'hhhhhhhhhhh', 'hhhhhhhhhhhhhhh...', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[12-Dec-2014 22:48:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(316): CropAvatar->__construct('', '{"x":480,"y":12...', Array, NULL, 'hhhhhhhh', 'hhhhhhhhhhhhhhh...', 'hhhhhhhhhhhhhhh...', 'hhhhhhhhhhhhhhh', 'hhhhhhhhhh', 'hhhhhhhhhhhhh', 'hhhhhhhhhhh', 'hhhhhhhhhhhhhhh...', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[12-Dec-2014 22:49:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:177
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(177): PDO->exec('UPDATE listings...')
+#1 /home/buzzeorw1/public_html/members_area/crop-avatar.php(80): CropAvatar->setFile(Array)
+#2 /home/buzzeorw1/public_html/members_area/crop-avatar.php(316): CropAvatar->__construct('', '{"x":384,"y":14...', Array, NULL, 'ggggggggggggggg...', 'ggggggggggggggg...', 'ggggggggggggggg...', 'ggggggggggggggg...', 'ggggggggg', 'ggggggggg', 'ggggggggggggggg...', 'ggggggggggggggg...', '0')
+#3 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 177
+[15-Dec-2014 04:14:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null' in /home/buzzeorw1/public_html/members_area/crop-avatar.php:43
+Stack trace:
+#0 /home/buzzeorw1/public_html/members_area/crop-avatar.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 43
+[15-Dec-2014 04:22:13 UTC] PHP Fatal error:  Call to undefined method CropAvatar::setTitle() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 32
+[01-Jan-2015 17:02:19 UTC] PHP Fatal error:  Call to undefined method CropAvatar::codeToMessage() in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 97
+[01-Jan-2015 18:49:39 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 155
+[01-Jan-2015 18:51:26 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 155
+[01-Jan-2015 19:51:27 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 157
+[01-Jan-2015 19:52:07 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 157
+[01-Jan-2015 20:04:55 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 157
+[01-Jan-2015 20:06:37 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 157
+[01-Jan-2015 20:07:38 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 157
+[01-Jan-2015 20:09:24 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 157
+[01-Jan-2015 20:10:24 UTC] PHP Fatal error:  Call to private CropAvatar::__construct() from invalid context in /home/buzzeorw1/public_html/members_area/crop-avatar.php on line 157
+[31-Jan-2015 06:20:18 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/register.php on line 4
+[31-Jan-2015 06:20:18 UTC] PHP Notice:  Undefined index: last_name in /home/buzzeorw1/public_html/members_area/register.php on line 5
+[31-Jan-2015 06:20:18 UTC] PHP Notice:  Undefined index: email_address in /home/buzzeorw1/public_html/members_area/register.php on line 6
+[31-Jan-2015 06:20:18 UTC] PHP Notice:  Undefined index: psswrd1 in /home/buzzeorw1/public_html/members_area/register.php on line 7
+[31-Jan-2015 06:20:18 UTC] PHP Notice:  Undefined index: psswrd2 in /home/buzzeorw1/public_html/members_area/register.php on line 8
+[31-Jan-2015 06:20:18 UTC] PHP Notice:  Undefined index: authcode in /home/buzzeorw1/public_html/members_area/register.php on line 9
+[24-Mar-2015 14:37:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 26464 bytes) in /home/buzzeorw1/public_html/members_area/edit-avatar.php on line 118
+[24-Mar-2015 14:37:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 26464 bytes) in /home/buzzeorw1/public_html/members_area/edit-avatar.php on line 118
+[24-Mar-2015 14:37:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 26464 bytes) in /home/buzzeorw1/public_html/members_area/edit-avatar.php on line 118
+[24-Mar-2015 14:37:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 26464 bytes) in /home/buzzeorw1/public_html/members_area/edit-avatar.php on line 118
+[24-Mar-2015 14:37:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 26464 bytes) in /home/buzzeorw1/public_html/members_area/edit-avatar.php on line 118
+[24-Mar-2015 14:38:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 31520 bytes) in /home/buzzeorw1/public_html/members_area/edit-avatar.php on line 118
+[11-May-2015 00:43:51 UTC] PHP Notice:  Undefined index: first_name in /home/buzzeorw1/public_html/members_area/register.php on line 4
+[11-May-2015 00:43:51 UTC] PHP Notice:  Undefined index: last_name in /home/buzzeorw1/public_html/members_area/register.php on line 5
+[11-May-2015 00:43:51 UTC] PHP Notice:  Undefined index: email_address in /home/buzzeorw1/public_html/members_area/register.php on line 6
+[11-May-2015 00:43:51 UTC] PHP Notice:  Undefined index: psswrd1 in /home/buzzeorw1/public_html/members_area/register.php on line 7
+[11-May-2015 00:43:51 UTC] PHP Notice:  Undefined index: psswrd2 in /home/buzzeorw1/public_html/members_area/register.php on line 8
+[11-May-2015 00:43:51 UTC] PHP Notice:  Undefined index: authcode in /home/buzzeorw1/public_html/members_area/register.php on line 9

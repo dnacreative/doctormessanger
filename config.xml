@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.culminatedweb.doctormessanger"
+        versionCode = "10" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Doctor Messanger</name>
+	<gap:platform name="ios" />
+
+    <description>
+        Application to provide patient doctor messanging. 
+    </description>
+
+    <author href="https://culminatedweb.com" email="robert108@usf.edu">
+        Robert Hill
+    </author>
+
+</widget>

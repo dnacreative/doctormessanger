@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="icon" type="image/ico" href="http://www.mblistings.com/favicon.ico"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ERROR LOGGIN IN Admin Area mblistings.com</title>
+<link rel="stylesheet" type="text/css" href="../css/style_members_area.css" media="screen" />
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script><script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+</head>
+
+<body>
+<div id="container">
+  <div id="head">
+    <div id="logo">
+    <div><img src="../images/logo.png" alt="mblistings logo"/></div>
+  </div>
+    <ul id="menu" name="menu">
+      <li><a href="login.php">Sign In</a></li>
+      <li><a href="join.php"><strong>Register</strong></a></li>
+      <li style="float:right; margin-right:10%;"><a href="../index.php"><img src="../images/home-icon.png"  height="22" alt="mblistings home icon"/></a></li>
+    </ul>
+  </div>
+  <div id="area"></div>
+  <div id="main">
+    <div id="content_left">
+      <h1>Please Register</h1>
+      <p style="color:#EB070A;">Error! You incorrectly entered one or more of the required criteria. Please try again or contact your <a href="mailto:robert108@usf.edu">systems administrator</a>.</p>
+      <p></p>
+      <form name="form1" method="post" action="register.php">
+        <table border="0" cellpadding="4" cellspacing="0" align="left">
+          <tr>
+            <td align="left" valign="top">First Name</td>
+            <td><input name="first_name" type="text" id="first_name2" value="<? echo $first_name; ?>"></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">Last Name</td>
+            <td><input name="last_name" type="text" id="last_name" value="<? echo $last_name; ?>"></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">Email Address</td>
+            <td><input name="email_address" type="text" id="email_address" value="<? echo $email_address; ?>"></td>
+            <td>&nbsp;</td>
+          </tr>
+                    <tr>
+            <td align="left" valign="top">Password</td>
+            <td><input name="psswrd1" type="text" id="txtNewPassword" value="<? echo $psswrd1; ?>"></td>
+            <td rowspan="2">    <div class="registrationFormAlert" id="divCheckPasswordMatch">
+</div></td>
+          </tr>
+                    <tr>
+            <td align="left" valign="top">Re-enter Password</td>
+            <td><input name="psswrd2" type="text" id="txtConfirmPassword" onChange="checkPasswordMatch()" value="<? echo $psswrd2; ?>"></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">Authorization code</td>
+            <td><input name="authcode" type="text" id="authcode" value="<? echo $authcode; ?>"></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+            <td><input type="submit" name="Submit" value="Submit Registration"></td>
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+
+
+      </form>
+      
+      <script>function checkPasswordMatch() {
+    var password = $("#txtNewPassword").val();
+    var confirmPassword = $("#txtConfirmPassword").val();
+
+    if (password != confirmPassword)
+        $("#divCheckPasswordMatch").html("Passwords do not match!");
+    else
+        $("#divCheckPasswordMatch").html("Passwords match.");
+}
+
+$(document).ready(function () {
+   $("#txtConfirmPassword").keyup(checkPasswordMatch);
+});</script>
+    </div>
+    <div id="content_right">
+      <h4>&nbsp;</h4>
+      <div class="item_box">
+        <div align="center"><img src="../images/error.png" alt="login error" width="176" height="176" /><br />
+        </div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+  </div>
+  <div id="footer"></div>
+</div>
+</body>
+</html>
